@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grade-scores", "grade-scores\grade-scores.vcxproj", "{21E44ADD-6ED9-4BB5-968C-E66F8349F065}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grade-scores-test", "grade-scores-test\grade-scores-test.vcxproj", "{9757CB21-B840-49A6-B057-9F322E543DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E44ADD-6ED9-4BB5-968C-E66F8349F065}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21E44ADD-6ED9-4BB5-968C-E66F8349F065}.Debug|Win32.Build.0 = Debug|Win32
+		{21E44ADD-6ED9-4BB5-968C-E66F8349F065}.Release|Win32.ActiveCfg = Release|Win32
+		{21E44ADD-6ED9-4BB5-968C-E66F8349F065}.Release|Win32.Build.0 = Release|Win32
+		{9757CB21-B840-49A6-B057-9F322E543DD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9757CB21-B840-49A6-B057-9F322E543DD6}.Debug|Win32.Build.0 = Debug|Win32
+		{9757CB21-B840-49A6-B057-9F322E543DD6}.Release|Win32.ActiveCfg = Release|Win32
+		{9757CB21-B840-49A6-B057-9F322E543DD6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
